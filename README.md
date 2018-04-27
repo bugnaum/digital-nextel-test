@@ -4,7 +4,7 @@ Olá :)
 
 O objetivo desta etapa não é somente resolver o problema proposto. Mesmo que este problema não seja extenso, nós esperamos que você encaminhe um código que acredite ser de qualidade, possível de ser rodado e evoluído. Use esse problema para nos mostrar as práticas que você utiliza no dia-a-dia para escrever um bom código.
  
-Para a sua solução você poderá usar: Python, Swift, Java, Kotlin ou React Native.
+Para a sua solução você poderá usar: Python, Swift, Java, Kotlin, JavaScript, React ou React Native.
 
  Alguns pontos que avaliamos:
 - design da solução
