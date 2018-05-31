@@ -113,6 +113,6 @@ Baixe o jar do stubby4j e coloque-o na pasta mobile_tech_assignment.
 
 Execute o stubby4j através do comando: 
 
-`java -jar stubby4jstubby4j-x.x.xx.jar -d tech_assignment_mobile_stubs.yml`
+`java -jar stubby4j-x.x.xx.jar -d tech_assignment_mobile_stubs.yml`
 
 Até breve!
