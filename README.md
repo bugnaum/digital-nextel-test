@@ -47,7 +47,7 @@ Para isso, você gostaria de encontrar a quinzena com a melhor temperatura poss�
  
 * Para encontrar a lista de cidades disponíveis, você utiliza (GET) localhost:8882/cities/
 
-* Para descobrir os climas diários para um determinado ID em um determinado ano, você utiliza (GET) localhost:8882/cities/<id>/year/<ano>
+* Para descobrir os climas diários para um determinado ID em um determinado ano, você utiliza (GET) localhost:8882/cities/`{id}`/year/`{ano}`
 
 * Para encontrar a lista de condições climáticas existentes, você utiliza (GET) localhost:8882/weather/
 
@@ -113,7 +113,6 @@ Baixe o jar do stubby4j e coloque-o na pasta mobile_tech_assignment.
 
 Execute o stubby4j através do comando: 
 
-java -jar <jar do stubby4j> -d tech_assignment_mobile_stubs.yml
-
+`java -jar stubby4j-x.x.xx.jar -d tech_assignment_mobile_stubs.yml`
 
 Até breve!
